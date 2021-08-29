@@ -64,7 +64,6 @@ button {
     padding: 1.3rem 3rem;
     margin-top: 3rem;
     font-weight: 700;
-    text-transform: capitalize;
     font-size: 1rem;
     border: 2px solid transparent;
     transition: ease-in .3s;
